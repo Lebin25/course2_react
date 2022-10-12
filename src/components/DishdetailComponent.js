@@ -50,7 +50,7 @@ import { Card, CardImg, CardImgOverlay, CardText, CardBody, CardTitle } from "re
     }
 
 
-    const DishDetail= (props) => {
+    const DishDetail = (props) => {
         
 
         if (props.dish == null) {

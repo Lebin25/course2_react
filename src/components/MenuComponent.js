@@ -45,8 +45,7 @@ const Menu = (props) => {
             </div>
         );
     }
-    else
-    return (
+    else return (
         <div className="container">
             <div className="row">
                 <Breadcrumb>
